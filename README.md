@@ -19,12 +19,12 @@ This methodical approach, entailing rigorous data handling, feature extraction, 
 
 # Experiments
 The comparative study of machine learning algorithms using a rainfall dataset aimed to precisely forecast flood occurrences, a critical target variable in disaster management. The table presents a detailed overview of the algorithms' performance metrics during validation and testing phases, emphasizing their predictive accuracies:
-Algorithm	          Validation accuracy score	   Test accuracy score
-KNN	                0.990	                       0.991
-Logistic Regression	0.992	                       0.991
-Decision Tree	      1.0	                         1.0
-SVM	                1.0	                         1.0
-Naive Bayes	        0.893	                       0.947
+Algorithm	           Validation accuracy score	   Test accuracy score
+KNN	                 0.990	                       0.991
+Logistic Regression  0.992	                       0.991
+Decision Tree	       1.0	                         1.0
+SVM	                 1.0	                         1.0
+Naive Bayes	         0.893	                       0.947
 
 Notably, the Decision Tree and SVM models showcased exceptional performance, achieving perfect accuracies of 1.000 during both validation and testing phases. This consistency signifies their robustness and reliability in accurately predicting flood incidents, establishing them as frontrunners among the evaluated algorithms.
 Furthermore, KNN and Logistic Regression models demonstrated commendable accuracies hovering around 99.1% to 99.2% across both validation and test sets. While exhibiting slight variations between the two phases, their high accuracy levels underscore their efficacy in flood prediction tasks.
