@@ -2,7 +2,7 @@
 The research aims to conduct a comparative analysis of various ML models for predicting floods in India, primarily utilizing rainfall data. We recognize the significance of ML models in reducing computational costs and enhancing flood prediction accuracy. Our study aims to evaluate the performance of ten ML models, including Light Gradient Boost Machine, Random Forest Classifier, Decision Tree, and K-Nearest Neighbor, among others. The models will be trained and validated using 13 inundation factors, with a particular focus on incorporating the curve number as a new factor for flood prediction.
 By leveraging these established methodologies and insights from the aforementioned papers, our comparative study seeks to contribute valuable information and methodologies to aid in flood prediction efforts in the Indian context.
 
-# Solution
+## Solution
 Through an extensive review of recent literature, it was evident that while several studies focused on flood susceptibility within specific subdivisions of India, a notable gap existed in terms of research or scholarly articles centered explicitly on flood prediction within the region. This lacuna propelled the choice of this research topic, aimed at addressing this critical void in the domain of flood prediction in India.
 ![workflow](https://github.com/musicallysouled/Comparative-Study-Of-ML-Algorithms-For-Flood-Prediction-In-India/assets/88243330/42dca0ce-cebd-4da5-a5b2-3f00cabb6526)
 # Dataset Selection and Preprocessing
