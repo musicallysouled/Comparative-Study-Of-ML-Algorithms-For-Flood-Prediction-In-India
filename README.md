@@ -5,13 +5,13 @@ By leveraging these established methodologies and insights from the aforemention
 ## Solution
 Through an extensive review of recent literature, it was evident that while several studies focused on flood susceptibility within specific subdivisions of India, a notable gap existed in terms of research or scholarly articles centered explicitly on flood prediction within the region. This lacuna propelled the choice of this research topic, aimed at addressing this critical void in the domain of flood prediction in India.
 ![workflow](https://github.com/musicallysouled/Comparative-Study-Of-ML-Algorithms-For-Flood-Prediction-In-India/assets/88243330/42dca0ce-cebd-4da5-a5b2-3f00cabb6526)
-# Dataset Selection and Preprocessing
+## Dataset Selection and Preprocessing
 The foundation of this study rested upon a comprehensive numerical dataset encompassing sub divisional monthly rainfall records across India. The initial stages involved meticulous data preprocessing, addressing missing data while ensuring uniformity in feature formats and data types. Moreover, to facilitate machine learning algorithms' compatibility, the target variable underwent transformation into a binary format (0 and 1). Subdivisions were systematically labelled using label encoders, streamlining the dataset for efficient analysis.
 
-# Data Refinement and Scaling
+## Data Refinement and Scaling
 A key aspect of the process involved the meticulous curation of the dataset. Superfluous features were pruned, optimizing the dataset for enhanced computational efficiency. Additionally, columns were rearranged strategically to streamline the data processing pipeline. Given the wide distribution of data, scaling techniques were employed to standardize the dataset for unbiased model training and validation.
 
-# Feature Extraction and Model Training
+## Feature Extraction and Model Training
 The extraction of pertinent features relied on historical data and a threshold-based approach, shaping the target variable to forecast flood occurrences accurately. The model was trained and validated using a sub divisional monthly rainfall dataset spanning from 1901 to 2015, with a meticulous evaluation of accuracy scores.
 Testing and Model Evaluation
 For comprehensive assessment, a distinct dataset comprising records from 2016 to 2021 was utilized to test the trained algorithms, determining their accuracy scores and identifying the most robust model. The selected model underwent further scrutiny using an independent dataset from the year 2022, gauging its accuracy in predicting flood incidents.
